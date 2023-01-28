@@ -1,0 +1,88 @@
+input[type=range] {
+    -webkit-appearance: none;
+    margin: 18px 0;
+    width: 40%;
+    background-color: transparent;
+  }
+  input[type=range]:focus {
+    outline: none;
+  }
+  input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    box-shadow: inset -2px 2px 0px rgb(0, 0, 0);
+    background: rgb(17, 17, 17);
+    border-radius: 2px;
+    border: 0.2px solid #010101;
+  }
+  input[type=range]::-webkit-slider-thumb {
+    border: 0.2px solid #1f1f1f;
+    height: 18px;
+    width: 16px;
+    border-radius: 3px;
+    background:rgb(85, 85, 85);
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -6px;
+  }
+  input[type=range]:focus::-webkit-slider-runnable-track {
+    background: rgb(17, 17, 17);
+  }
+  input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    box-shadow: inset -2px 2px 0px rgb(0, 0, 0);
+    background: rgb(34, 34, 34);
+    border-radius: 1.3px;
+    border: 0.2px solid #010101;
+  }
+  input[type=range]::-moz-range-thumb {
+   border: 0.2px solid #1f1f1f;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: rgb(34, 34, 34);
+    cursor: pointer;
+  }
+  input[type=range]::-ms-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    background: transparent;
+    border-color: transparent;
+    border-width: 16px 0;
+    color: transparent;
+  }
+  input[type=range]::-ms-fill-lower {
+    background: rgb(34, 34, 34);
+    border: 0.2px solid #010101;
+    border-radius: 2.6px;
+    box-shadow: inset -2px 2px 0px rgb(0, 0, 0);
+  }
+  input[type=range]::-ms-fill-upper {
+    background: rgb(34, 34, 34);
+    border: 0.2px solid #010101;
+    border-radius: 2.6px;
+    box-shadow: inset -2px 2px 0px rgb(0, 0, 0);
+  }
+  input[type=range]::-ms-thumb {
+    border: 0.2px solid #1f1f1f;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: rgb(85, 85, 85);
+    cursor: pointer;
+  }
+  input[type=range]:focus::-ms-fill-lower {
+    background: rgb(34, 34, 34);
+  }
+  input[type=range]:focus::-ms-fill-upper {
+    background: rgb(34, 34, 34);
+  }
+
+  .slider{
+    font-size: 1rem;
+    color: rgb(124, 124, 124);
+  }

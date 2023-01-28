@@ -1,0 +1,116 @@
+{
+    "sound_set_01":{
+        "Q": {
+            "source": "/sounds/sound_01.mp3",
+            "name": "Chip Q"
+        },
+        "W": {
+            "source": "/sounds/sound_02.mp3",
+            "name": "Chip W"
+        },
+        "E": {
+            "source": "/sounds/sound_03.mp3",
+            "name": "Chip E"
+        },
+        "A": {
+            "source": "/sounds/sound_04.mp3",
+            "name": "Chip A"
+        },
+        "S": {
+            "source": "/sounds/sound_05.mp3",
+            "name": "Chip S"
+        },
+        "D": {
+            "source": "/sounds/sound_06.mp3",
+            "name": "Chip D"
+        },
+        "Z": {
+            "source": "/sounds/sound_07.mp3",
+            "name": "Chip Z"
+        },
+        "X": {
+            "source": "/sounds/sound_08.mp3",
+            "name": "Chip X"
+        },
+        "C": {
+            "source": "/sounds/sound_09.mp3",
+            "name": "Chip C"
+        }
+    },
+    "sound_set_02": {
+        "Q": {
+            "source": "/sounds/sound_10.mp3",
+            "name": "Synth Q"
+        },
+        "W": {
+            "source": "/sounds/sound_11.mp3",
+            "name": "Synth W"
+        },
+        "E": {
+            "source": "/sounds/sound_12.mp3",
+            "name": "Synth E"
+        },
+        "A": {
+            "source": "/sounds/sound_13.mp3",
+            "name": "Synth A"
+        },
+        "S": {
+            "source": "/sounds/sound_14.mp3",
+            "name": "Synth S"
+        },
+        "D": {
+            "source": "/sounds/sound_15.mp3",
+            "name": "Synth D"
+        },
+        "Z": {
+            "source": "/sounds/sound_16.mp3",
+            "name": "Synth Z"
+        },
+        "X": {
+            "source": "/sounds/sound_17.mp3",
+            "name": "Synth X"
+        },
+        "C": {
+            "source": "/sounds/sound_18.mp3",
+            "name": "Synth C"
+        }
+    },
+    "sound_set_03": {
+        "Q": {
+            "source": "/sounds/sound_19.mp3",
+            "name": "Noise Q"
+        },
+        "W": {
+            "source": "/sounds/sound_20.mp3",
+            "name": "Noise W"
+        },
+        "E": {
+            "source": "/sounds/sound_21.mp3",
+            "name": "Noise E"
+        },
+        "A": {
+            "source": "/sounds/sound_22.mp3",
+            "name": "Noise A"
+        },
+        "S": {
+            "source": "/sounds/sound_23.mp3",
+            "name": "Noise S"
+        },
+        "D": {
+            "source": "/sounds/sound_24.mp3",
+            "name": "Noise D"
+        },
+        "Z": {
+            "source": "/sounds/sound_25.mp3",
+            "name": "Noise Z"
+        },
+        "X": {
+            "source": "/sounds/sound_26.mp3",
+            "name": "Noise X"
+        },
+        "C": {
+            "source": "/sounds/sound_27.mp3",
+            "name": "Noise C"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+.btn{
+    background-color: rgb(17, 17, 17);
+    color: rgb(124, 124, 124);
+}
+.btn:hover{
+    background-color: rgb(34, 34, 34);
+}
+.modal-content{
+    background-color: rgb(124, 124, 124);
+    color: rgb(17, 17, 17);
+}
+
+.modal-header{
+    background-color: rgb(17, 17, 17);
+    color: rgb(124, 124, 124);
+    border: none;
+}
+
+.modal-footer{
+    border: none;
+}

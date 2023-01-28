@@ -1,0 +1,15 @@
+#display{
+    height: 3em;
+    width: 100%;
+}
+
+.drum-display-background{
+    background-color: rgb(17, 17, 17);
+    box-shadow: inset -4px 4px 0px rgb(0, 0, 0);
+    margin: auto;
+    width: 60%;
+}
+.drum-display{
+    font-size: 2em;
+    transition: all 1s ease-in-out;
+}

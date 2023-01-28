@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chiptune-machine/static/css/main.40ed5671.css",
+    "main.js": "/chiptune-machine/static/js/main.9e01a53a.js",
+    "static/media/Perfect DOS VGA 437.ttf": "/chiptune-machine/static/media/Perfect DOS VGA 437.4df1d5bd795358c80faa.ttf",
+    "index.html": "/chiptune-machine/index.html",
+    "main.40ed5671.css.map": "/chiptune-machine/static/css/main.40ed5671.css.map",
+    "main.9e01a53a.js.map": "/chiptune-machine/static/js/main.9e01a53a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ed5671.css",
+    "static/js/main.9e01a53a.js"
+  ]
+}
